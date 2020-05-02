@@ -51,6 +51,7 @@ In this talk, I’m going to go over the core concepts of Kafka offsets and lags
 
 <p>Type: Full-length Presentation</p>
 <p>Tags: Kafka, Monitoring, Lag, Data Pipeline, Streaming, Burrow</p>
+<hr/>
 </details>
 
 
