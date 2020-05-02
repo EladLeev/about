@@ -6,6 +6,7 @@ Here's my talks, blog posts and other related links.
 <img src="img/elad-round.png" width="100"><br>
 <a href="https://twitter.com/eladleev" target="_blank"><img src="img/twitter.png" width="20" padding-right="5"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/elad-leev/" target="_blank"><img src="img/linkedin.png" width="20" padding-right="5"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/3922514/elad-leev" target="_blank"><img src="img/so.png" width="30"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@eladleev" target="_blank"><img src="img/medium.png" width="20" padding-right="5"></a>
 
 Platform engineer with more than 5 years experience managing complex production operations, with expertise in distributed systems and databases.<br>
