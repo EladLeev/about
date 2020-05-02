@@ -3,11 +3,11 @@ Here's my talks, blog posts and other related links.
 
 
 ## **Elad Leev**
+<img src="img/elad-round.png" width="100"><br>
 <a href="https://twitter.com/eladleev" target="_blank"><img src="img/twitter.png" width="20" padding-right="5"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/elad-leev/" target="_blank"><img src="img/linkedin.png" width="20" padding-right="5"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@eladleev" target="_blank"><img src="img/medium.png" width="20" padding-right="5"></a>
 
-<img src="img/elad-round.png" width="100" align="left" padding-right="5">
 Platform engineer with more than 5 years experience managing complex production operations, with expertise in distributed systems and databases.<br>
 Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 100B+ events daily.<br>
 Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcache, and he likes to program in Python, Ruby and Go.
