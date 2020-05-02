@@ -32,3 +32,54 @@ Languages: English, Hebrew
 
 ## &#187;	 Related links
 &#183; [Why AppsFlyer moved from Bitbucket to GitLab](https://about.gitlab.com/blog/2020/04/27/appsflyer-moves-to-gitlab/) - Gitlab Blog<br>
+
+## &#187;	 Talks abstract
+_Click to expand_
+
+<details><summary><strong>Kafka Lag Monitoring for Human Beings</strong></summary>
+
+#### Talk Description
+One of the key metrics to monitor when working with Apache Kafka, as a data pipeline or a streaming platform, is Consumer Groups Lag.
+
+Lag is the delta between the last produced message and the last committed message of a partition. In other words, lag indicates how far behind your application is in processing up-to-date information.
+For a long time, we used our own service to keep track of these metrics, collect them and visualize them. But this didn’t scale well.
+
+You had to perform many manual operations, redeploy it and to do other tedious manual tasks, but most importantly, the biggest gap for us, was that its out was represented in absolute numbers (e.g - your lag is 30K), which basically tells you nothing as a human being.
+
+We understood that we had to find a more suitable solution that will give us better visibility and will allow us to measure the lag in a time-based format that we all understand.
+In this talk, I’m going to go over the core concepts of Kafka offsets and lags, and explain why lag even matters and is an important KPI to measure.  I’ll also talk about the kind of research we did to find the right tool, what the options in the market were at the time, and eventually why we chose Linkedin’s Burrow as the right tool for us. And finally, I’ll take a closer look at Burrow, its building blocks, how we build and deploy it, how we monitor better with it, and eventually the most important improvement - how we transformed its output from numbers to time-based metrics.
+
+<p>Type: Full-length Presentation</p>
+<p>Tags: Kafka, Monitoring, Lag, Data Pipeline, Streaming, Burrow</p>
+</details>
+
+
+<details><summary><strong>A Journey from Python to Go</strong></summary>
+
+#### Abstract
+
+I love Python. It has been my go-to language for the past five years. But the growth in the popularity and maturity of Go, alongside the strong user base, made me think about how I can add it into my tool set.
+
+In this talk, I'm going to tell you about my journey from Python to Go, and provide you with some tips and expose you to some of the resources that helped me succeed on this journey and live to tell the tale.  I will dive into some of the main differences, and how to minimize the learning curve, as well as some of the excellent libraries and tools that enabled me to ramp up my Go coding skills pretty quickly & painlessly.
+
+<p>Type: Full-length Presentation</p>
+<p>Tags: Go, Golang, Python, Coding, Resources, Tips</p>
+<hr/>
+</details>
+
+
+<details><summary><strong>Migration from BitBucket to GitLab</strong></summary>
+
+#### Talk Description
+AppsFlyer migrated its entire git operation, with production clients from BitBucket to Gitlab.  This talk will dive into what was involved with the migration process - from building the architecture through selecting the tooling and eventually how we built our very own self-serve API abstraction over the GitLab API.  Some of the points the talk will review:
+* The migration process - from Mercurial to Git, how to move all projects, how to get developer buy-in and the lessons learned during the process
+* Architecture - How we built it, the challenges we faced, how we built our DR solution, alongside the distributed backup  
+* Building monitoring for the environment
+* Self-service, tooling & and some pro tips and tricks for working with Gitlab
+
+While this will be a talk about our Gitlab implementation, it will also provide key takeways for making such a migration in a large-scale engineering organization.
+
+<p>Type: Full-length Presentation</p>
+<p>Tags: GitLab, Git, BitBucket, Migration, Mercurial, hg, API</p>
+<hr/>
+</details>
