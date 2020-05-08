@@ -13,8 +13,6 @@ Platform engineer with more than 5 years experience managing complex production 
 Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 100B+ events daily.<br>
 Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcache, and he likes to program in Python, Ruby and Go.
 
-Languages: English, Hebrew
-
 
 ## &#187;	 Talk Recordings
 &#183; [AppsFlyer's Case Study of GitLab](https://www.youtube.com/watch?v=N8pEKNw4nmI)  [Heb] [2018] [Full] <br>
