@@ -32,6 +32,7 @@ Languages: English, Hebrew
 
 ## &#187;	 Related links
 &#183; [Why AppsFlyer moved from Bitbucket to GitLab](https://about.gitlab.com/blog/2020/04/27/appsflyer-moves-to-gitlab/) - Gitlab Blog<br>
+&#183; [GitLab Heroes Page](https://about.gitlab.com/community/heroes/members) - Gitlab Website<br>
 
 ## &#187;	 Talks abstract
 _Click to expand_
