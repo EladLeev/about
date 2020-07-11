@@ -1,9 +1,11 @@
 # Speaker bio
 Here's my talks, blog posts and other related links.
 
+<h2>Elad Leev</h2>
 <p align='center'>
-<h2>Elad Leev</h2><br>
 <img src="img/elad-round.png" width="100"><br>
+</p>
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/eladleev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,6 +17,11 @@ Here's my talks, blog posts and other related links.
     <a href="https://stackoverflow.com/users/3922514/elad-leev">
     <img src="https://img.shields.io/badge/stackoverflow-%23FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    <a href="https://twitter.com/Eladleev">
+    <img src="https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter" />
+  </a>
 </p>
 
 Platform engineer with more than 5 years experience managing complex production operations, with expertise in distributed systems and databases.<br>
