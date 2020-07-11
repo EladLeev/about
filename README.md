@@ -1,7 +1,7 @@
 # Speaker bio
 Here's my talks, blog posts and other related links.
 
-<h2>Elad Leev</h2>
+# Elad Leev
 <p align='center'>
 <img src="img/elad-round.png" width="100"><br>
 </p>
