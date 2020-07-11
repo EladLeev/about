@@ -1,5 +1,5 @@
 # Speaker bio
-Here's my talks, blog posts and other related links.
+Here are my talks, blog posts and other related links.
 
 # Elad Leev
 <p align='center'>
