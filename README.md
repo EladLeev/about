@@ -30,10 +30,11 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 </p>
 
 ## &#187;	 Talk Recordings
-&#183; [AppsFlyer's Case Study of GitLab](https://www.youtube.com/watch?v=N8pEKNw4nmI)  [Heb] [2018] [Full] <br>
-&#183; [What can you learn from the biggest automation company in the world?](https://youtu.be/nlOgFPTwdq0) [Eng] [2019] [Ignite] <br>
-&#183; [Commit San Francisco 2020: Migrating from BitBucket to GitLab](https://www.youtube.com/watch?v=z_6tVRCyJxs) [Eng] [2020] [Full] <br>
-&#183; [Handling Increasing Load and Reducing Costs During COVID-19 Crisis](https://www.youtube.com/watch?v=rRRTTxBohrg&t=1677s) [Heb] [2020] [10m] <br>
+&#183; [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings) - Kafka Summit 2020 <sub>[Eng] [2020] [Full]</sub> <br>
+&#183; [Handling Increasing Load and Reducing Costs During COVID-19 Crisis](https://www.youtube.com/watch?v=rRRTTxBohrg&t=1677s) <sub>[Heb] [2020] [10m]</sub> <br>
+&#183; [Migrating from BitBucket to GitLab](https://www.youtube.com/watch?v=z_6tVRCyJxs) - GitlabCommit San Francisco 2020 <sub>[Eng] [2020] [Full] </sub><br>
+&#183; [What can you learn from the biggest automation company in the world?](https://youtu.be/nlOgFPTwdq0) <sub>[Eng] [2019] [Ignite]</sub> <br>
+&#183; [AppsFlyer's Case Study of GitLab](https://www.youtube.com/watch?v=N8pEKNw4nmI)  <sub>[Heb] [2018] [Full]</sub> <br>
 
 
 ## &#187;	 Blog Posts
