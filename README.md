@@ -85,6 +85,18 @@ In this talk, I'm going to tell you about my journey from Python to Go, and prov
 <hr/>
 </details>
 
+<details><summary><strong>What can you learn from the biggest automation company in the world?</strong></summary>
+
+#### Talk Description
+We will go over some high scale patterns in one of the most surprising and loved company in the industry.<br>
+I'm lovin it.
+
+
+<p>Type: Ignite</p>
+<p>Tags: Tech, Scale, Software Patterns, System Design, Distributed Systems</p>
+<hr/>
+</details>
+
 
 <details><summary><strong>Migration from BitBucket to GitLab</strong></summary>
 
