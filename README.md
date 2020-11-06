@@ -24,12 +24,13 @@ Here are my talks, blog posts and other related links.
   </a>
 </p>
 
-Platform engineer with more than 5 years experience managing complex production operations, with expertise in distributed systems and databases.<br>
-Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 100B+ events daily.<br>
-Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcache, and he likes to program in Python, Ruby and Go.
+Platform engineer with strong experience managing complex production operations, with expertise in distributed systems and databases.<br>
+Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 150B+ events daily.<br>
+Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcached, and he likes to program in Python, Ruby and Go.
 </p>
 
 ## &#187;	 Talk Recordings
+&#183; [Kafka: Revolution to Evolution](https://www.youtube.com/watch?v=OQwK0n0x65o) - DataOps Meetup: Conquering Data with Kafka & Airflow <sub>[Heb] [2020] [Full]</sub> <br>
 &#183; [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings) - Kafka Summit 2020 <sub>[Eng] [2020] [Full]</sub> <br>
 &#183; [Handling Increasing Load and Reducing Costs During COVID-19 Crisis](https://www.youtube.com/watch?v=rRRTTxBohrg&t=1677s) <sub>[Heb] [2020] [10m]</sub> <br>
 &#183; [Migrating from BitBucket to GitLab](https://www.youtube.com/watch?v=z_6tVRCyJxs) - GitlabCommit San Francisco 2020 <sub>[Eng] [2020] [Full] </sub><br>
