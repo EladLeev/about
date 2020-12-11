@@ -39,14 +39,16 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 
 
 ## &#187;	 Blog Posts
-&#183; [GitLab: The Magic of System Hooks](https://medium.com/appsflyer/gitlab-the-magic-of-system-hooks-f38c4f7ca8e7)<br>
+&#183; [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/)<br>
 &#183; [My journey from Python to Go](https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c)<br>
+&#183; [GitLab: The Magic of System Hooks](https://medium.com/appsflyer/gitlab-the-magic-of-system-hooks-f38c4f7ca8e7)<br>
 &#183; Personal Blog - [Heb](https://leev.tech/) / [Eng](https://leevs.dev/) <br>
 
 ## &#187;	 Translated Blog Posts
 &#183; My journey from Python to Go [[Chinese - InfoQ]](https://www.infoq.cn/article/G-cfduQWKy3ROfx5p6US), [[Russian - Habr]](https://habr.com/ru/company/skillbox/blog/444866/)
 
 ## &#187;	 Related links
+&#183; [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - Confluent Blog [Eng]<br>
 &#183; [What is the company doing “Flying” the Apps?](https://www.aerospike.com/news/news-article/what-is-the-company-doing-flying-the-apps/) - Aerospike Blog [Eng]<br>
 &#183; [How AppsFlyer use Aerospike to support the growth during COVID-19](https://www.pc.co.il/thenewcom/315643/) - People & Computers [Heb]<br>
 &#183; [Why AppsFlyer moved from Bitbucket to GitLab](https://about.gitlab.com/blog/2020/04/27/appsflyer-moves-to-gitlab/) - Gitlab Blog<br>
