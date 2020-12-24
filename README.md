@@ -49,6 +49,7 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 
 ## &#187;	 Related links
 &#183; [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - Confluent Blog [Eng]<br>
+&#183; [Best Kafka Summit Videos](http://kafka.apache.org/videos#kafka_operations:~:text=Kafka%20Lag%20Monitoring%20For%2[…]an%20Beings%2C%20Elad%20Leev%20(AppsFlyer)%2C%20KS%202020) - Apache Kafka Official Page [Eng]<br>
 &#183; [What is the company doing “Flying” the Apps?](https://www.aerospike.com/news/news-article/what-is-the-company-doing-flying-the-apps/) - Aerospike Blog [Eng]<br>
 &#183; [How AppsFlyer use Aerospike to support the growth during COVID-19](https://www.pc.co.il/thenewcom/315643/) - People & Computers [Heb]<br>
 &#183; [Why AppsFlyer moved from Bitbucket to GitLab](https://about.gitlab.com/blog/2020/04/27/appsflyer-moves-to-gitlab/) - Gitlab Blog<br>
