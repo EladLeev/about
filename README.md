@@ -1,4 +1,4 @@
-# Speaker bio
+# About
 Here are my talks, blog posts and other related links.
 
 # Elad Leev
