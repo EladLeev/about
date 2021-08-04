@@ -39,6 +39,7 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 
 
 ## &#187;	 Blog Posts
+&#183; [A Practical Guide for Kafka Cost Reduction](https://leevs.dev/kafka-cost-reduction/)<br>
 &#183; [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/)<br>
 &#183; [My journey from Python to Go](https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c)<br>
 &#183; [GitLab: The Magic of System Hooks](https://medium.com/appsflyer/gitlab-the-magic-of-system-hooks-f38c4f7ca8e7)<br>
@@ -46,6 +47,8 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 
 ## &#187;	 Translated Blog Posts
 &#183; My journey from Python to Go [[Chinese - InfoQ]](https://www.infoq.cn/article/G-cfduQWKy3ROfx5p6US), [[Russian - Habr]](https://habr.com/ru/company/skillbox/blog/444866/)
+
+&#183; A Practical Guide for Kafka Cost Reduction [[Chinese - InfoQ]](https://www.infoq.cn/article/zGb2m6e17hlmRDxViaNi)
 
 ## &#187;	 Related links
 &#183; [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - Confluent Blog [Eng]<br>
