@@ -61,6 +61,19 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 ## &#187;	 Talks abstract
 _Click to expand_
 
+<details><summary><strong>Let’s make your CFO happy; A practical guide for cost reduction</strong></summary>
+
+#### Talk Description
+According to Gartner Forecasts, the worldwide end-user spending on public cloud services is forecast to grow by 23% in 2021, to a total of $332B. As organizations evolve and grow, data rates grow too, as do consequent cloud costs. Take a look at your AWS bill, and you will probably find Hadoop, Spark, and Kafka at the top. So what can we do?
+
+In this talk, we are going to address exactly this problem. We will understand what we are paying for, how to develop an economic mindset, where we can cut costs, and what we can proactively do to reduce our cloud infrastructure cost.
+
+
+<p><strong>Type:</strong> Full-length Presentation</p>
+<p><strong>Tags:</strong> Cloud, Cloud Cost, FinOps, Kafka, Spark, Distributed Systems, Cost reduction, Cost saving, AWS, GCP, Data</p>
+<hr/>
+</details>
+
 <details><summary><strong>Kafka Lag Monitoring for Human Beings</strong></summary>
 
 #### Talk Description
@@ -74,22 +87,22 @@ You had to perform many manual operations, redeploy it and to do other tedious m
 We understood that we had to find a more suitable solution that will give us better visibility and will allow us to measure the lag in a time-based format that we all understand.
 In this talk, I’m going to go over the core concepts of Kafka offsets and lags, and explain why lag even matters and is an important KPI to measure.  I’ll also talk about the kind of research we did to find the right tool, what the options in the market were at the time, and eventually why we chose Linkedin’s Burrow as the right tool for us. And finally, I’ll take a closer look at Burrow, its building blocks, how we build and deploy it, how we monitor better with it, and eventually the most important improvement - how we transformed its output from numbers to time-based metrics.
 
-<p>Type: Full-length Presentation</p>
-<p>Tags: Kafka, Monitoring, Lag, Data Pipeline, Streaming, Burrow</p>
+<p><strong>Type</strong>: Full-length Presentation</p>
+<p><strong>Tags</strong>: Kafka, Monitoring, Lag, Data Pipeline, Streaming, Burrow</p>
 <hr/>
 </details>
 
 
 <details><summary><strong>A Journey from Python to Go</strong></summary>
 
-#### Abstract
+#### Talk Description
 
 I love Python. It has been my go-to language for the past five years. But the growth in the popularity and maturity of Go, alongside the strong user base, made me think about how I can add it into my tool set.
 
 In this talk, I'm going to tell you about my journey from Python to Go, and provide you with some tips and expose you to some of the resources that helped me succeed on this journey and live to tell the tale.  I will dive into some of the main differences, and how to minimize the learning curve, as well as some of the excellent libraries and tools that enabled me to ramp up my Go coding skills pretty quickly & painlessly.
 
-<p>Type: Full-length Presentation</p>
-<p>Tags: Go, Golang, Python, Coding, Resources, Tips</p>
+<p><strong>Type:</strong> Full-length Presentation</p>
+<p><strong>Tags:</strong> Go, Golang, Python, Coding, Resources, Tips</p>
 <hr/>
 </details>
 
@@ -100,8 +113,8 @@ We will go over some high scale patterns in one of the most surprising and loved
 I'm lovin it.
 
 
-<p>Type: Ignite</p>
-<p>Tags: Tech, Scale, Software Patterns, System Design, Distributed Systems</p>
+<p><strong>Type</strong>: Ignite</p>
+<p><strong>Tags</strong>: Tech, Scale, Software Patterns, System Design, Distributed Systems</p>
 <hr/>
 </details>
 
@@ -117,7 +130,7 @@ AppsFlyer migrated its entire git operation, with production clients from BitBuc
 
 While this will be a talk about our Gitlab implementation, it will also provide key takeways for making such a migration in a large-scale engineering organization.
 
-<p>Type: Full-length Presentation</p>
-<p>Tags: GitLab, Git, BitBucket, Migration, Mercurial, hg, API</p>
+<p><strong>Type</strong>: Full-length Presentation</p>
+<p><strong>Tags</strong>: GitLab, Git, BitBucket, Migration, Mercurial, hg, API</p>
 <hr/>
 </details>
