@@ -25,7 +25,7 @@ Here are my talks, blog posts and other related links.
 </p>
 
 Data engineer with strong experience managing complex production operations, with expertise in distributed systems and databases.<br>
-Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 2000B+ events daily.<br>
+Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 200B+ events daily.<br>
 Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcached, and he likes to program in Python, Ruby and Go.
 </p>
 
