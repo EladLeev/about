@@ -30,13 +30,17 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 </p>
 
 ## &#187;	 Talk Recordings
-&#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.confluent.io/resources/presentation/lets-make-your-cfo-happy-a-practical-guide-for-kafka-cost-reduction/) - Kafka Summit London 2022 <sub>[Eng] [2022] [Full]</sub> <br>
-&#183; [Kafka: Revolution to Evolution](https://www.youtube.com/watch?v=OQwK0n0x65o) - DataOps Meetup: Conquering Data with Kafka & Airflow <sub>[Heb] [2020] [Full]</sub> <br>
-&#183; [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings) - Kafka Summit 2020 <sub>[Eng] [2020] [Full]</sub> <br>
-&#183; [Handling Increasing Load and Reducing Costs During COVID-19 Crisis](https://www.youtube.com/watch?v=rRRTTxBohrg&t=1677s) <sub>[Heb] [2020] [10m]</sub> <br>
-&#183; [Migrating from BitBucket to GitLab](https://www.youtube.com/watch?v=z_6tVRCyJxs) - GitlabCommit San Francisco 2020 <sub>[Eng] [2020] [Full] </sub><br>
-&#183; [What can you learn from the biggest automation company in the world?](https://youtu.be/nlOgFPTwdq0) <sub>[Eng] [2019] [Ignite]</sub> <br>
-&#183; [AppsFlyer's Case Study of GitLab](https://www.youtube.com/watch?v=N8pEKNw4nmI)  <sub>[Heb] [2018] [Full]</sub> <br>
+#### English
+&#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.confluent.io/resources/presentation/lets-make-your-cfo-happy-a-practical-guide-for-kafka-cost-reduction/) - Kafka Summit London 2022 <sub> [2022] [Full]</sub> <br>
+&#183; [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings) - Kafka Summit 2020 <sub> [2020] [Full]</sub> <br>
+&#183; [Migrating from BitBucket to GitLab](https://www.youtube.com/watch?v=z_6tVRCyJxs) - GitlabCommit San Francisco 2020 <sub> [2020] [Full] </sub><br>
+&#183; [What can you learn from the biggest automation company in the world?](https://youtu.be/nlOgFPTwdq0) <sub> [2019] [Ignite]</sub> <br>
+
+#### Hebrew
+&#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.youtube.com/watch?v=ofVHiADj6go) - AerospikeTLV: Streaming and Querying Data <sub> [2022] [Full]</sub> <br>
+&#183; [Kafka: Revolution to Evolution](https://www.youtube.com/watch?v=OQwK0n0x65o) - DataOps Meetup: Conquering Data with Kafka & Airflow <sub> [2020] [Full]</sub> <br>
+&#183; [Handling Increasing Load and Reducing Costs During COVID-19 Crisis](https://www.youtube.com/watch?v=rRRTTxBohrg&t=1677s) <sub>[2020] [10m]</sub> <br>
+&#183; [AppsFlyer's Case Study of GitLab](https://www.youtube.com/watch?v=N8pEKNw4nmI)  <sub> [2018] [Full]</sub> <br>
 
 
 ## &#187;	 Blog Posts
