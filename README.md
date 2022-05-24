@@ -30,6 +30,7 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 </p>
 
 ## &#187;	 Talk Recordings
+&#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.confluent.io/resources/presentation/lets-make-your-cfo-happy-a-practical-guide-for-kafka-cost-reduction/) - Kafka Summit London 2022 <sub>[Eng] [2022] [Full]</sub> <br>
 &#183; [Kafka: Revolution to Evolution](https://www.youtube.com/watch?v=OQwK0n0x65o) - DataOps Meetup: Conquering Data with Kafka & Airflow <sub>[Heb] [2020] [Full]</sub> <br>
 &#183; [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings) - Kafka Summit 2020 <sub>[Eng] [2020] [Full]</sub> <br>
 &#183; [Handling Increasing Load and Reducing Costs During COVID-19 Crisis](https://www.youtube.com/watch?v=rRRTTxBohrg&t=1677s) <sub>[Heb] [2020] [10m]</sub> <br>
