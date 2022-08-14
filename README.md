@@ -37,7 +37,7 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 &#183; [What can you learn from the biggest automation company in the world?](https://youtu.be/nlOgFPTwdq0) <sub> [2019] [Ignite]</sub> <br>
 
 #### Hebrew
-&#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.youtube.com/watch?v=Uz7xKOZkXUg) - HayaData 2022<sub> [2022] [Full]</sub> <br>
+&#183; [Let’s Make Your CFO Happy; A Practical Guide for Cost Reduction](https://www.youtube.com/watch?v=Uz7xKOZkXUg) - HayaData 2022<sub> [2022] [Full]</sub> <br>
 &#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.youtube.com/watch?v=ofVHiADj6go) - AerospikeTLV: Streaming and Querying Data <sub> [2022] [Full]</sub> <br>
 &#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.youtube.com/watch?v=1AdW9L4kjIo) - Don’t Lose Control: What to Do When You Scale Beyond the Limits
 <sub> [2022] [Full]</sub> <br>
