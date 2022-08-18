@@ -47,6 +47,7 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 
 
 ## &#187;	 Blog Posts
+&#183; [Know Your Limits: Cluster Benchmarks](https://medium.com/riskified-technology/know-your-limits-cluster-benchmarks-ecc6c3c77574)<br>
 &#183; [A Practical Guide for Kafka Cost Reduction](https://leevs.dev/kafka-cost-reduction/)<br>
 &#183; [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/)<br>
 &#183; [My journey from Python to Go](https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c)<br>
