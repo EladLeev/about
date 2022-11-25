@@ -24,14 +24,14 @@ Here are my talks, blog posts and other related links.
   </a>
 </p>
 
-Data engineer with strong experience managing complex production operations, with expertise in distributed systems and databases.<br>
+Staff Platform Engineer with strong experience managing complex production operations, with expertise in distributed systems and databases.<br>
 Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 200B+ events daily.<br>
 Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcached, and he likes to program in Python, Ruby and Go.
 </p>
 
 ## &#187;	 Talk Recordings
 #### English
-&#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.confluent.io/resources/presentation/lets-make-your-cfo-happy-a-practical-guide-for-kafka-cost-reduction/) - Kafka Summit London 2022 <sub> [2022] [Full]</sub> <br>
+&#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.confluent.io/en-gb/events/kafka-summit-london-2022/lets-make-your-cfo-happy-a-practical-guide-for-kafka-cost-reduction/) - Kafka Summit London 2022 <sub> [2022] [Full]</sub> <br>
 &#183; [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings) - Kafka Summit 2020 <sub> [2020] [Full]</sub> <br>
 &#183; [Migrating from BitBucket to GitLab](https://www.youtube.com/watch?v=z_6tVRCyJxs) - GitlabCommit San Francisco 2020 <sub> [2020] [Full] </sub><br>
 &#183; [What can you learn from the biggest automation company in the world?](https://youtu.be/nlOgFPTwdq0) <sub> [2019] [Ignite]</sub> <br>
