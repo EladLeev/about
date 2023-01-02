@@ -146,4 +146,4 @@ While this will be a talk about our Gitlab implementation, it will also provide 
 </details>
 
 ## &#187;	 Last Tweet
-[![](https://gtce.itsvg.in/api?username=eladleev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=eladleev&theme=prussian)](https://twitter.com/Eladleev)
