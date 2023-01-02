@@ -146,12 +146,12 @@ While this will be a talk about our Gitlab implementation, it will also provide 
 </details>
 
 ## &#187;	Open Source Contributions 💫
-* [Yelp / kafka-utils](https://github.com/Yelp/kafka-utils) - [Prometheus support](https://github.com/Yelp/kafka-utils/pull/288), [Jolokia authentication support](https://github.com/Yelp/kafka-utils/pull/227)
-* [OpenMessaging/ benchmark](https://github.com/openmessaging/benchmark) - [Alternative Dockerfile without Maven dependency](https://github.com/openmessaging/benchmark/pull/221), [Allow users to change memory configurations](https://github.com/openmessaging/benchmark/pull/220)
-* [Argoproj/ argo-cd](https://github.com/argoproj/argo-cd) - [Update Dex config, change misleading error message.](https://github.com/argoproj/argo-cd/pull/11208)
-* [LinkedIn / cruise-control](https://github.com/linkedin/cruise-control) - [Document JMX in Sensors.md](https://github.com/linkedin/cruise-control/pull/1669)
-* [LinkedIn / Burrow](https://github.com/linkedin/Burrow) - [Adding readiness probe endpoint](https://github.com/linkedin/Burrow/pull/678)
-* [Influxdata / telegraf](https://github.com/influxdata/telegraf) - [Add the ability to control MaxProcessingTime on Sarama lib](https://github.com/influxdata/telegraf)  
+* **Yelp**/kafka-utils - [Prometheus support](https://github.com/Yelp/kafka-utils/pull/288), [Jolokia authentication support](https://github.com/Yelp/kafka-utils/pull/227)
+* **OpenMessaging**/benchmark - [Alternative Dockerfile without Maven dependency](https://github.com/openmessaging/benchmark/pull/221), [Allow users to change memory configurations](https://github.com/openmessaging/benchmark/pull/220)
+* **Argoproj**/argo-cd - [Update Dex config, change misleading error message.](https://github.com/argoproj/argo-cd/pull/11208)
+* **LinkedIn**/cruise-control - [Document JMX in Sensors.md](https://github.com/linkedin/cruise-control/pull/1669)
+* **LinkedIn**/Burrow - [Adding readiness probe endpoint](https://github.com/linkedin/Burrow/pull/678)
+* **Influxdata**/telegraf - [Add the ability to control MaxProcessingTime on Sarama lib](https://github.com/influxdata/telegraf)  
 _More can be found on my GitHub profile_
 
 ## &#187;	Open Source Projects
