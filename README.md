@@ -144,3 +144,6 @@ While this will be a talk about our Gitlab implementation, it will also provide 
 <p><strong>Tags</strong>: GitLab, Git, BitBucket, Migration, Mercurial, hg, API</p>
 <hr/>
 </details>
+
+## &#187;	 Last Tweet
+[![](https://gtce.itsvg.in/api?username=eladleev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
