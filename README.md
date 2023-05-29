@@ -155,9 +155,9 @@ While this will be a talk about our Gitlab implementation, it will also provide 
 _More can be found on my GitHub profile_
 
 ## &#187;	Open Source Projects
-* [kafka-config-metrics](https://github.com/EladLeev/kafka-config-metrics) - ⭐ 20+
-* [kubeseal-convert](https://github.com/EladLeev/kubeseal-convert) - ⭐ 15+
-* [schema-registry-statistics](https://github.com/EladLeev/schema-registry-statistics)
+* [kafka-config-metrics](https://github.com/EladLeev/kafka-config-metrics) - ⭐ 23+
+* [kubeseal-convert](https://github.com/EladLeev/kubeseal-convert) - ⭐ 25+
+* [schema-registry-statistics](https://github.com/EladLeev/schema-registry-statistics) ⭐ 21+
 * [kafka-topic-creation-time](https://github.com/EladLeev/kafka-topic-creation-time)
 
 
