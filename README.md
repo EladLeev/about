@@ -152,6 +152,7 @@ While this will be a talk about our Gitlab implementation, it will also provide 
 * **LinkedIn**/cruise-control - [Document JMX in Sensors.md](https://github.com/linkedin/cruise-control/pull/1669)
 * **LinkedIn**/Burrow - [Adding readiness probe endpoint](https://github.com/linkedin/Burrow/pull/678)
 * **Influxdata**/telegraf - [Add the ability to control MaxProcessingTime on Sarama lib](https://github.com/influxdata/telegraf)  
+* **OhShitGit** - [Added Hebrew transaltion, and support for RTL languages](https://github.com/ksylor/ohshitgit/pull/29)  
 _More can be found on my GitHub profile_
 
 ## &#187;	Open Source Projects
