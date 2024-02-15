@@ -31,6 +31,7 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 
 ## &#187;	 Talk Recordings
 #### English
+&#183; [Pushing Your Streaming Platform to the Limit](https://www.youtube.com/watch?v=i5gjmRuBcgQ) - Conf42 Chaos Engineering <sub> [2024] [Full]</sub> <br>
 &#183; [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.confluent.io/en-gb/events/kafka-summit-london-2022/lets-make-your-cfo-happy-a-practical-guide-for-kafka-cost-reduction/) - Kafka Summit London 2022 <sub> [2022] [Full]</sub> <br>
 &#183; [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings) - Kafka Summit 2020 <sub> [2020] [Full]</sub> <br>
 &#183; [Migrating from BitBucket to GitLab](https://www.youtube.com/watch?v=z_6tVRCyJxs) - GitlabCommit San Francisco 2020 <sub> [2020] [Full] </sub><br>
@@ -70,6 +71,16 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 
 ## &#187;	 Talks abstract
 _Click to expand_
+
+<details><summary><strong>Pushing Your Streaming Platform to the Limit</strong></summary>
+
+#### Talk Description
+In this session, we’ll take a hands-on approach to Chaos Engineering for streaming platforms like Kafka, Pulsar, NATS, or RabbitMQ. Dive into stress testing, from crafting benchmarks to real-world execution. Discover how to fine-tune performance and scalability, preparing your system for any challenges ahead.
+
+<p><strong>Type:</strong> Full-length Presentation</p>
+<p><strong>Tags:</strong> Data, Streaming, Kafka, NATS, Pulsar, RabbitMQ, OMB, Benchmark, Chaos, Stress Tests</p>
+<hr/>
+</details>
 
 <details><summary><strong>Let’s make your CFO happy; A practical guide for cost reduction</strong></summary>
 
@@ -156,11 +167,9 @@ While this will be a talk about our Gitlab implementation, it will also provide 
 _More can be found on my GitHub profile_
 
 ## &#187;	Open Source Projects
-* [kafka-config-metrics](https://github.com/EladLeev/kafka-config-metrics) - ⭐ 23+
-* [kubeseal-convert](https://github.com/EladLeev/kubeseal-convert) - ⭐ 25+
-* [schema-registry-statistics](https://github.com/EladLeev/schema-registry-statistics) ⭐ 21+
+* [kafka-config-metrics](https://github.com/EladLeev/kafka-config-metrics) - ⭐ 28+
+* [kubeseal-convert](https://github.com/EladLeev/kubeseal-convert) - ⭐ 42+
+* [schema-registry-statistics](https://github.com/EladLeev/schema-registry-statistics) ⭐ 24+
+* [KeyToField-smt](https://github.com/EladLeev/KeyToField-smt) ⭐ 15+
 * [kafka-topic-creation-time](https://github.com/EladLeev/kafka-topic-creation-time)
 
-
-## &#187;	 Last Tweet
-[![](https://gtce.itsvg.in/api?username=eladleev&theme=prussian)](https://twitter.com/Eladleev)
