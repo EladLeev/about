@@ -61,6 +61,7 @@ Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcac
 &#183; A Practical Guide for Kafka Cost Reduction [[Chinese - InfoQ]](https://www.infoq.cn/article/zGb2m6e17hlmRDxViaNi)
 
 ## &#187;	 Related links
+&#183; [Confluent DevX Newsletter](https://developer.confluent.io/newsletter/you-put-what-in-your-events/#:~:text=A%20single%20message%20key%20to%20field%20transform%20for%20Kafka%20Connect/Debezium%20by%20Elad%20Leev!%20In%20a%20way%20it%E2%80%99s%20the%20reverse%20of%20the%20ValueToKey%20SMT%20that%20comes%20with%20Kafka%20Connect%2C%20useful%20for%20when%20the%20fields%20in%20the%20key%20are%20not%20included%20in%20the%20value.) - My open source tool featured on Confluent's Newsletter <sub>[Eng]</sub><br>
 &#183; [Confluent Community Catalyst](https://www.confluent.io/nominate/#:~:text=%40danjagiel-,Elad,-Leev%C2%A0) - Confluent Website <sub>[Eng]</sub><br>
 &#183; [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - Confluent Blog <sub>[Eng]</sub><br>
 &#183; [Best Kafka Summit Videos](http://kafka.apache.org/videos#kafka_operations:~:text=Kafka%20Lag%20Monitoring%20For%2[…]an%20Beings%2C%20Elad%20Leev%20(AppsFlyer)%2C%20KS%202020) - Apache Kafka Official Page <sub>[Eng]</sub><br>
